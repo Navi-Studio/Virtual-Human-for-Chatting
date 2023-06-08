@@ -2,3 +2,4 @@ LICENSE filter=lfs diff=lfs merge=lfs -text
 Packages filter=lfs diff=lfs merge=lfs -text
 ProjectSettings filter=lfs diff=lfs merge=lfs -text
 Assets filter=lfs diff=lfs merge=lfs -text
+Assets/Font/猫啃什锦黑[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
