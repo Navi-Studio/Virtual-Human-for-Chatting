@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58229d41c24a7fb4aafd097ab43bcc2a, type: 3}
+  m_Name: exp_02.exp3
+  m_EditorClassIdentifier: 
+  Type: Live2D Expression
+  FadeInTime: 0.5
+  FadeOutTime: 0.5
+  Parameters:
+  - Id: ParamCheek
+    Value: 0
+    Blend: 1
+  - Id: ParamEyeLOpen
+    Value: -1.2
+    Blend: 1
+  - Id: ParamEyeLSmile
+    Value: 1
+    Blend: 1
+  - Id: ParamEyeLForm
+    Value: 0
+    Blend: 1
+  - Id: ParamEyeROpen
+    Value: -1.2
+    Blend: 1
+  - Id: ParamEyeRSmile
+    Value: 1
+    Blend: 1
+  - Id: ParamEyeRForm
+    Value: 0
+    Blend: 1
+  - Id: ParamEyeBallX
+    Value: 0
+    Blend: 1
+  - Id: ParamEyeBallY
+    Value: 0
+    Blend: 1
+  - Id: ParamEyeBallForm
+    Value: 0
+    Blend: 1
+  - Id: ParamEyeEffect
+    Value: 0
+    Blend: 1
+  - Id: ParamBrowLY
+    Value: 0
+    Blend: 1
+  - Id: ParamBrowRY
+    Value: 0
+    Blend: 1
+  - Id: ParamBrowLX
+    Value: 0
+    Blend: 1
+  - Id: ParamBrowRX
+    Value: 0
+    Blend: 1
+  - Id: ParamBrowLAngle
+    Value: 0
+    Blend: 1
+  - Id: ParamBrowRAngle
+    Value: 0
+    Blend: 1
+  - Id: ParamBrowLForm
+    Value: 0
+    Blend: 1
+  - Id: ParamBrowRForm
+    Value: 0
+    Blend: 1
+  - Id: ParamMouthA
+    Value: 0
+    Blend: 1
+  - Id: ParamMouthI
+    Value: 0
+    Blend: 1
+  - Id: ParamMouthU
+    Value: 0
+    Blend: 1
+  - Id: ParamMouthE
+    Value: 0
+    Blend: 1
+  - Id: ParamMouthO
+    Value: 0
+    Blend: 1
+  - Id: ParamMouthUp
+    Value: 0
+    Blend: 1
+  - Id: ParamMouthDown
+    Value: 0
+    Blend: 1
+  - Id: ParamMouthAngry
+    Value: 0
+    Blend: 1
+  - Id: ParamMouthAngryLine
+    Value: 0
+    Blend: 1

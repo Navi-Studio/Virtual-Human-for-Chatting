@@ -1,0 +1,21 @@
+The following is a list of files available for redistribution
+under the terms of the Live2D Proprietary Software License Agreement:
+
+- Android/arm64-v8a/libLive2DCubismCore.so
+- Android/armeabi-v7a/libLive2DCubismCore.so
+- Android/x86/libLive2DCubismCore.so
+- Android/x86_64/libLive2DCubismCore.so
+- Experimental/Emscripten/latest/Live2DCubismCore.bc
+- Experimental/Emscripten/1_38_48/Live2DCubismCore.bc
+- Experimental/UWP/arm/Live2DCubismCore.dll
+- Experimental/UWP/arm64/Live2DCubismCore.dll
+- Experimental/UWP/x64/Live2DCubismCore.dll
+- Experimental/UWP/x86/Live2DCubismCore.dll
+- iOS/Debug-iphoneos/libLive2DCubismCore.a
+- iOS/Debug-iphonesimulator/libLive2DCubismCore.a
+- iOS/Release-iphoneos/libLive2DCubismCore.a
+- iOS/Release-iphonesimulator/libLive2DCubismCore.a
+- Linux/x86_64/libLive2DCubismCore.so
+- macOS/Live2DCubismCore.bundle
+- Windows/x86/Live2DCubismCore.dll
+- Windows/x86_64/Live2DCubismCore.dll

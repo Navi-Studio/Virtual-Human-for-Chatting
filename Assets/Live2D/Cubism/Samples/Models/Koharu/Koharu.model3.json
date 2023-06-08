@@ -1,0 +1,19 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Koharu.moc3",
+		"Textures": [
+			"Koharu.2048/texture_00.png"
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"PARAM_EYE_L_OPEN",
+				"PARAM_EYE_R_OPEN"
+			]
+		}
+	] 
+}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: Natori.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: e48500006a850000a8850000f88500002e8600005a850000428600002285000020860000
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: b211dc549c58a9e448169cc818f5edfa, type: 2}
+  - {fileID: 11400000, guid: 145e4856478ab1540affc40745dbea64, type: 2}
+  - {fileID: 11400000, guid: 5323b3cc5cbfce247a7b600e050dfd25, type: 2}
+  - {fileID: 11400000, guid: 598e84cff2fb47d4a97d7cb5c6b72777, type: 2}
+  - {fileID: 11400000, guid: 8fa81345265d4d248a4ed30b9a51db94, type: 2}
+  - {fileID: 11400000, guid: 1ffd90dc3b646144697fcde104b90b22, type: 2}
+  - {fileID: 11400000, guid: 5e1fd12e78197be4c9ce4a13659fa2f4, type: 2}
+  - {fileID: 11400000, guid: 3e9a00196639fcd4c89d6d817ead1f8c, type: 2}
+  - {fileID: 11400000, guid: 07bf16d073d205b4d9e26fd2a9acb9c6, type: 2}

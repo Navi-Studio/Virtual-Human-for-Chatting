@@ -1,0 +1,9 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Clipping.moc3",
+		"Textures": [
+			"Clipping.1024/texture_00.png"
+		]
+	}
+}

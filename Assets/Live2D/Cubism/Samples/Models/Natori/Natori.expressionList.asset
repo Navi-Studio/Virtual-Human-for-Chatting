@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f401bb1c5c52514eba33c0c2ffdc8ff, type: 3}
+  m_Name: Natori.expressionList
+  m_EditorClassIdentifier: 
+  CubismExpressionObjects:
+  - {fileID: 11400000, guid: 341a960e457f42e4fa5e29901e33330b, type: 2}
+  - {fileID: 11400000, guid: 295986b38229e1f44a5db5bf59f5cb4c, type: 2}
+  - {fileID: 11400000, guid: 181353472beb47648abc6478811e110b, type: 2}
+  - {fileID: 11400000, guid: 3c00ead319281f248bf39729dce7f856, type: 2}
+  - {fileID: 11400000, guid: e18904c67459bd14587f57960b84cd35, type: 2}
+  - {fileID: 11400000, guid: 75716b716fd207a4fbd81d62587eb848, type: 2}
+  - {fileID: 11400000, guid: cc703a825ce04ce459a4284e92038d63, type: 2}
+  - {fileID: 11400000, guid: 5f7e2afb46f6df840b9aa43869258198, type: 2}
+  - {fileID: 11400000, guid: e741d012d79b6074d850ed20840881a4, type: 2}
+  - {fileID: 11400000, guid: c3a152ee9547ef7469084183fd0b9ac3, type: 2}
+  - {fileID: 11400000, guid: 0236e9b5381628a48b018c62daf357dd, type: 2}

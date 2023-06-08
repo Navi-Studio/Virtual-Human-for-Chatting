@@ -1,0 +1,30 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "TaoHua.moc3",
+		"Textures": [
+			"TaoHua.4096/texture_00.png",
+			"TaoHua.4096/texture_01.png"
+		],
+		"Physics": "TaoHua.physics3.json",
+		"DisplayInfo": "TaoHua.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthForm",
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}

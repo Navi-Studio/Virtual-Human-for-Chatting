@@ -1,0 +1,140 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 3.97,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 9,
+		"TotalSegmentCount": 12,
+		"TotalPointCount": 29,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamBreath",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.089,
+				0,
+				0.178,
+				0,
+				0.267,
+				0,
+				1,
+				0.756,
+				0,
+				1.244,
+				1,
+				1.733,
+				1,
+				1,
+				1.844,
+				1,
+				1.956,
+				1,
+				2.067,
+				1,
+				1,
+				2.7,
+				1,
+				3.333,
+				0.034,
+				3.967,
+				0.001
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "PartWatchA",
+			"Segments": [
+				0,
+				1,
+				0,
+				3.97,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "PartWatchB",
+			"Segments": [
+				0,
+				0,
+				0,
+				3.97,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "PartArmAL",
+			"Segments": [
+				0,
+				1,
+				0,
+				3.97,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "PartArmAR",
+			"Segments": [
+				0,
+				1,
+				0,
+				3.97,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "PartArmBR",
+			"Segments": [
+				0,
+				0,
+				0,
+				3.97,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "PartArmCL",
+			"Segments": [
+				0,
+				0,
+				0,
+				3.97,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "PartArmDL",
+			"Segments": [
+				0,
+				0,
+				0,
+				3.97,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "PartArmER",
+			"Segments": [
+				0,
+				0,
+				0,
+				3.97,
+				0
+			]
+		}
+	]
+}
