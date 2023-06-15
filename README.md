@@ -20,11 +20,16 @@
 
 -   申请好后请将 API Key 填入设置中，项目会持久存储这些数据。
 
-![SpeakSetting](https://cdn.dggyu.top/image/SpeakSetting.png?imageslim)
+![image-20230615212731531](https://cdn.dggyu.top/image/image-20230615212731531.png?imageslim)
 
 ### 环境
 
 - Unity 2021.3.0
+
+### 分辨率
+
+-   Editor 下分辨率**建议设置**为 1920*1080
+-   Runtime 下已默认设置为 1920*1080
 
 ### Unity包导入
 
@@ -63,7 +68,7 @@
 }
 ```
 
-## 6 致谢
+## 致谢
 
 我们非常感谢画师 [草莓奶兔](https://www.bilibili.com/video/BV1hB4y1Q7vn) 提供的“桃花酪元子” Live2D 模型，以及 [是柚子呀owo](https://www.bilibili.com/video/BV1RW4y14715) 提供的精美背景原画。非常感谢以上作者的优秀作品。
 
