@@ -290,8 +290,7 @@ public class AzureSpeech : MonoBehaviour
 
     [HideInInspector] public bool m_KeyWordResult = false;
     public async Task KeyWordRecognition(){
-
-        string kwsModelDir = Application.dataPath.Substring(0, Application.dataPath.LastIndexOf("/")) + "/Audios/" + kwsModelFile;
+        string kwsModelDir = Application.dataPath + $"/Resources/Audios/KwrModel/{kwsModelFile}";
         var model = KeywordRecognitionModel.FromFile(kwsModelDir);
         var stopRecognition = new TaskCompletionSource<int>(TaskCreationOptions.RunContinuationsAsynchronously);
         var resultStr = "";

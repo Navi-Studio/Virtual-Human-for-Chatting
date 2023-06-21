@@ -70,10 +70,8 @@ public class GptTurboScript : MonoBehaviour
             request.SetRequestHeader("Authorization", string.Format("Bearer {0}", _openAI_Key));
 
             yield return request.SendWebRequest();
-            
             if (request.responseCode == 200)
             {
-                
                 string _msg = request.downloadHandler.text;
                 MessageBack _textback = JsonUtility.FromJson<MessageBack>(_msg);
                 if (_textback != null && _textback.choices.Count > 0)
@@ -84,7 +82,9 @@ public class GptTurboScript : MonoBehaviour
                     m_DataList.Add(new SendData("assistant", _backMsg));
                     _callback(_backMsg);
                 }
-
+            }
+            else{
+                Debug.Log($"ChatGPT_responseCode : {request.responseCode}");
             }
         }
 
