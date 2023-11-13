@@ -6,21 +6,17 @@
 
 视频演示：https://www.bilibili.com/video/BV1CW4y1X7PK
 
-![MainScene](https://cdn.dggyu.top/image/MainScene.png?imageslim)
-
 ## 项目部署
 
 ### API申请
 
 -   本项目不提供公用API Key，请自行申请。
-    1.   [Azure](https://azure.microsoft.com/zh-cn/products/cognitive-services/)：[API文档](https://learn.microsoft.com/zh-cn/azure/cognitive-services/speech-service/)
+    1.   [Azure](https://azure.microsoft.com/zh-cn/products/cognitive-services/)：[API文档](https://learn.microsoft.com/zh-cn/azure/cognitive-services/speech-service/) 并将 Region 设置为 eastasia
     2.   [OpenAI](https://platform.openai.com/account/api-keys)：[API文档](https://platform.openai.com/docs/api-reference)
     3.   [APISpace](https://www.apispace.com/eolink/api/wbqgfx/introduction)：[API文档](https://www.apispace.com/eolink/api/wbqgfx/apiDocument#scroll=0)
 
 
--   申请好后请将 API Key 填入设置中，项目会持久存储这些数据。
-
-![image-20230615212731531](https://cdn.dggyu.top/image/image-20230615212731531.png?imageslim)
+-   申请好后请将 API Key 填入设置 UI 中，项目会持久存储这些数据。
 
 ### 环境
 
@@ -33,15 +29,9 @@
 
 ### Unity包导入
 
-下载最新版本的Unity包，导入依赖后导入你的Unity工程中：
-
 - [OpenCVPlusUnity](https://assetstore.unity.com/packages/tools/integration/opencv-plus-unity-85928)：处理图像相关操作，用于人脸检测等模块
 - Newtonsoft.Json：序列化、反序列化等JSON相关操作
     - Add Package from git URL : `com.unity.nuget.newtonsoft-json`
-
-## 基础架构
-
-![image-20230608200934228](https://cdn.dggyu.top/image/image-20230608200934228.png?imageslim)
 
 ## 技术文档
 
