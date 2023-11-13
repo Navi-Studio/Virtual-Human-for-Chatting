@@ -16,7 +16,7 @@ public class AzureSpeech : MonoBehaviour
    public AudioSource audioSource;
 
     // 服务所在区域
-    private string Region = "eastus";
+    private string Region = "eastasia";
     // 设置声音的角色码
     // private string m_SoundSetting; // zh-CN-XiaoxiaoNeural(温柔) zh-CN-XiaoyiNeural(可爱)
 
